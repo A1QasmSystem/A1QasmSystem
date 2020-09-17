@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### Assalamu'alaikum Akhi, Ahlan wa Sahlan to my Github! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+  ### Assalamu'alaikum, Ahlan wa Sahlan to my Github! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
   ![github stats](https://github-readme-stats.vercel.app/api?username=A1QasmSystem&show_icons=true)
   
 </div>  
