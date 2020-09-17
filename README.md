@@ -1,7 +1,7 @@
 <div align="center">
 
   ### Hi there, welcome to my Github! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-  ![github stats](https://github-readme-stats.vercel.app/api?username=Uchiman&show_icons=true)
+  ![github stats](https://github-readme-stats.vercel.app/api?username=A1QasmSystem&show_icons=true)
   
 </div>  
 
@@ -9,7 +9,7 @@
   
   **📫 Reach me at:**<br>
 
-[![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Acontact.utsman.khabillah%40gmail.com)](mailto:contact.syuhadayahya9@gmail.com)
+[![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Acontact.syuhadayahya9%40gmail.com)](mailto:contact.syuhadayahya9@gmail.com)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Ffacebook.com%2Fismlhbb)](https://facebook.com/frozenfields)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fismlhbb)](https://instagram.com/yahya.kun)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Line&logo=Line&style=social&url=http%3A%2F%2Fline.me%2Fti%2Fp%2F~ismlhbb)](http://line.me/ti/p/~cyber.crime007)
@@ -22,7 +22,7 @@
  
  **✨Visitors**<br>
  
-[![ViewCount](https://views.whatilearened.today/views/github/uchiman/ismlhbb.svg?cache=remove)](#)
+[![ViewCount](https://views.whatilearened.today/views/github/A1QasmSystem/ismlhbb.svg?cache=remove)](#)
 
 </div>
 
